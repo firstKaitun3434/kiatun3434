@@ -1,0 +1,60 @@
+local args = {
+    [1] = "SECRET_ADMIN"
+}
+game:GetService("ReplicatedStorage").Remotes.Redeem:InvokeServer(unpack(args))
+local args = {
+    [1] = "KITT_RESET"
+}
+game:GetService("ReplicatedStorage").Remotes.Redeem:InvokeServer(unpack(args))
+local args = {
+    [1] = "ADMINGIVEAWAY"
+}
+game:GetService("ReplicatedStorage").Remotes.Redeem:InvokeServer(unpack(args))
+local args = {
+    [1] = "SUBGAMERROBOT"
+}
+game:GetService("ReplicatedStorage").Remotes.Redeem:InvokeServer(unpack(args))
+local args = {
+    [1] = "GAMERROBOT _YT"
+}
+game:GetService("ReplicatedStorage").Remotes.Redeem:InvokeServer(unpack(args))
+local args = {
+    [1] = "kittgaming"
+}
+game:GetService("ReplicatedStorage").Remotes.Redeem:InvokeServer(unpack(args))
+local args = {
+    [1] = "Sub2Fer999"
+}
+game:GetService("ReplicatedStorage").Remotes.Redeem:InvokeServer(unpack(args))
+local args = {
+    [1] = "Enyu_is_Pro"
+}
+game:GetService("ReplicatedStorage").Remotes.Redeem:InvokeServer(unpack(args))
+local args = {
+    [1] = "Magicbus"
+}
+game:GetService("ReplicatedStorage").Remotes.Redeem:InvokeServer(unpack(args))
+local args = {
+    [1] = "JCWK"
+}
+game:GetService("ReplicatedStorage").Remotes.Redeem:InvokeServer(unpack(args))
+local args = {
+    [1] = "Starcodeheo"
+}
+game:GetService("ReplicatedStorage").Remotes.Redeem:InvokeServer(unpack(args))
+local args = {
+    [1] = "Bluxxy"
+}
+game:GetService("ReplicatedStorage").Remotes.Redeem:InvokeServer(unpack(args))
+local args = {
+    [1] = "fudd10_v2"
+}
+game:GetService("ReplicatedStorage").Remotes.Redeem:InvokeServer(unpack(args))
+local args = {
+    [1] = "FUDD10"
+}
+game:GetService("ReplicatedStorage").Remotes.Redeem:InvokeServer(unpack(args))
+local args = {
+    [1] = "BIGNEWS"
+}
+game:GetService("ReplicatedStorage").Remotes.Redeem:InvokeServer(unpack(args))
